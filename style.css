@@ -11,7 +11,7 @@
 }
 body {
 	background:url(new-bgimg.jpg) no-repeat center;
-	background-size: 100%;
+	background-size: 105%;
 	font-family: monospace;font-style: courier;
 	opacity: 0.85
 
@@ -28,8 +28,9 @@ body {
 .logo{
     opacity: 0.8;
 }
-p {
+.features {
 	font-family: monospace; font-style: courier;
-	opacity: 1.0;
+	font-size: 118%;
+	
 }
 
