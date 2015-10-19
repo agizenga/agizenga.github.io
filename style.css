@@ -13,8 +13,6 @@ body {
 	background:url(new-bgimg.jpg) no-repeat center;
 	background-size: 105%;
 	font-family: monospace;font-style: courier;
-	opacity: 0.85
-
 }
 .signup-form {
 	color: #fff;
@@ -31,6 +29,5 @@ body {
 .features {
 	font-family: monospace; font-style: courier;
 	font-size: 118%;
-	
 }
 
