@@ -23,9 +23,13 @@ body {
     1px -1px 0 #000,
     -1px 1px 0 #000,
     1px 1px 0 #000;
+    font-family: monospace;font-style: courier
 	}
 .logo{
     opacity: 0.8;
-    filter: alpha(opacity=40); 
+}
+p {
+	font-family: monospace; font-style: courier;
+	opacity: 1.0;
 }
 
